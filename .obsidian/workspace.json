@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "4c5e3ad2564b6129",
+    "type": "split",
+    "children": [
+      {
+        "id": "827cab55af69f0dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "16aaadb5b12d99d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "loop/Loop.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Loop"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7cf207cf3b1baa53",
+    "type": "split",
+    "children": [
+      {
+        "id": "92f1c0ae3a2cac94",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a138be14526ce5c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "15f3479d75c0d2cf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c16c02c6a1264bde",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5ea81ca34024414d",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b01776fd1f8aeb4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3aae90b9cb88570b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "loop/Loop.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Loop"
+            }
+          },
+          {
+            "id": "b3d1566328671764",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Stop Teams from creating a sharepoint site.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Stop Teams from creating a sharepoint site"
+            }
+          },
+          {
+            "id": "f1ee323772254fef",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "69f9b640839c4f38",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Stop Teams from creating a sharepoint site.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Stop Teams from creating a sharepoint site"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "16aaadb5b12d99d9",
+  "lastOpenFiles": [
+    "posts/SharePoint Bunnies.md",
+    "loop/Loop.md",
+    "templates/Chat.md",
+    "posts/Google Skates and Microsoft Boots.md",
+    "people/mark-kashman/2024-04-08.md",
+    "development/ASP.NET Core.md",
+    "windows/Microsoft Windows Widgets.md",
+    "sharepoint/media/SharePoint - add-ins.png",
+    "sharepoint/How to connect to an Excel or CSV on SharePoint - OneDrive using Power Query.md",
+    "sharepoint/Microsoft Files in M365.md",
+    "sharepoint/Microsoft Sharepoint.md",
+    "sharepoint/SharePoint.md",
+    "sharepoint/SharePoint Add-Ins.md",
+    "sharepoint/SharePoint and Teams.md",
+    "sharepoint/SharePoint connecting Webparts.md",
+    "sharepoint/SharePoint lookup columns.md",
+    "sharepoint/SharePoint Sites and Content API Overview.md",
+    "sharepoint/SharePoint Teams site vs Collaboration site.md",
+    "sharepoint/SharePoint tips.md",
+    "tasks/media/Microsoft - Tasks - TPS Report.png",
+    "tasks/media/Microsoft - Tasks - Open in Outlook.png",
+    "tasks/media/Create tasks from Outlook email.jpg",
+    "teams/Add a Kanban board to Teams.md",
+    "teams/Announcement in Teams.md",
+    "teams/Instant polls in Teams.md",
+    "teams/Microsoft Teams Tasks.md",
+    "teams/Share files in Microsoft Teams meetings using OneDrive Shortcuts.md",
+    "teams/Teams open files in Teams ugh!.md",
+    "templates/Product.md",
+    "templates/Video.md",
+    "todo/media/Outlook ToDo Tasks.jpg",
+    "todo/media/Microsoft To Do - My Day - Suggestions.png",
+    "sharepoint_lists/media/SharePoint Lists.png",
+    "sharepoint_lists/media/Microsoft Lists - New Rating Column.jpg",
+    "sharepoint_lists/media/Microsoft Lists - Create a List.png",
+    "planner/media/Microsoft - Hone your task management skills.png",
+    "power_apps/media",
+    "tasks/media",
+    "tasks",
+    "todo/media",
+    "teams/media/Teams open files in Teams ugh!.pdf",
+    "sharepoint/media",
+    "development/media",
+    "office/media",
+    "azure/media",
+    "teams/media"
+  ]
+}
