@@ -92,4 +92,3 @@ Your feedback helps inform our feature updates and we look forward to hearing fr
 - Visit the [Planner help page](http://support.microsoft.com/planner) to learn more about the capabilities in the new Planner.
 
 Version 3.0
-# Article

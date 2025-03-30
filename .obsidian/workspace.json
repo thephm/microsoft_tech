@@ -11,10 +11,14 @@
             "id": "1867f4ed2274363a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "planner/Tasks by Planner.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Tasks by Planner"
             }
           }
         ]
@@ -90,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "planner/New MS Planner AMA.md",
+                "file": "planner/Tasks by Planner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for New MS Planner AMA"
+              "title": "Backlinks for Tasks by Planner"
             }
           },
           {
@@ -151,8 +155,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,8 +170,22 @@
   },
   "active": "1867f4ed2274363a",
   "lastOpenFiles": [
-    "planner/media/Feature table - Outlook Tasks - To-Do - Teams - Planner - Planner Premium.png",
+    "planner/What's new in Microsoft Planner - January 2025  Microsoft Community Hub.md",
+    "planner/Tasks by Planner.md",
+    "planner/Project for the Web.md",
+    "planner/New MS Planner AMA.md",
+    "planner/MS Planner Coming.md",
+    "planner/Microsoft task.md",
+    "planner/Microsoft Planner Premium.md",
+    "planner/Microsoft Project Professional vs. Planner Premium - a detailed comparison.md",
+    "planner/Microsoft Project Names and Logos History.md",
+    "planner/Microsoft Planner Premium Data Model & Integration.md",
+    "planner/Microsoft Planner.md",
+    "planner/Meet the new Microsoft Planner.md",
+    "planner/Hidden Gems of Microsoft 365 Planner.md",
+    "Dataverse Connectors.md",
     "dataverse/Dataverse.md",
+    "planner/media/Feature table - Outlook Tasks - To-Do - Teams - Planner - Planner Premium.png",
     "planner/media/Planner - Templates.png",
     "Clippings/Dependencies in (the new!) Microsoft Planner  LinkedIn.md",
     "planner/media/Planner Dependencies - Finish to Start - Immediate.png",
@@ -178,8 +195,6 @@
     "planner/media/Planner Dependencies - Finish to Finish - Lead delay.png",
     "planner/media/Planner Dependencies - Start-to-Start - SS - with Immediate delay type.png",
     "planner/media/Planner Dependencies - Start-to-Finish - SF - with Immediate delay type.png",
-    "planner/New MS Planner AMA.md",
-    "planner/Microsoft Project Professional vs. Planner Premium - a detailed comparison.md",
     "loop/Mastering Microsoft Loop Storage Management A Guide for Administrators and Users.md",
     "loop/media/Loop Storage Context from Apps Perspective.png",
     "power_apps/Power Apps and Power Platform.md",
@@ -187,7 +202,6 @@
     "power_apps/How to capture photos using PowerApps.md",
     "power_apps/Hidden Gems of Microsoft 365  Power Apps.md",
     "power_apps/Microsoft Power Apps.md",
-    "planner/What's new in Microsoft Planner - January 2025  Microsoft Community Hub.md",
     "planner/media/pin a tab for Planner and create a shared space.mp4.crswap",
     "planner/media/pin a tab for Planner and create a shared space.mp4",
     "Clippings",
@@ -197,16 +211,6 @@
     "posts/Project Desktop vs. Planner Premium.md",
     "people/brian-smith/Brian Smith.md",
     "people/brian-smith",
-    "planner/Microsoft task.md",
-    "planner/MS Planner Coming.md",
-    "planner/Microsoft Project Names and Logos History.md",
-    "planner/Microsoft Planner.md",
-    "planner/Microsoft 365 Project Management vs. Standalone Project Management Software 1.md",
-    "planner/Microsoft 365 Project Management vs. Standalone Project Management Software.md",
-    "planner/Meet the new Microsoft Planner.md",
-    "development/Microsoft Planner API.md",
-    "planner/Tasks by Planner.md",
-    "planner/About plans that aren't in groups.md",
     "power_apps/media",
     "tasks/media",
     "tasks",

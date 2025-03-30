@@ -18,7 +18,7 @@ github_id:
 
 ## Summary
 
-
+Now called [[Microsoft Planner Premium|Planner Premium]]
 ## Quotes
 
 >
@@ -37,7 +37,6 @@ github_id:
 
 ## Notes
 
-
 https://learn.microsoft.com/en-us/office365/servicedescriptions/project-online-service-description/project-web-service-description
 
 https://techcommunity.microsoft.com/t5/project/project-for-the-web-p4w-baselines-or-due-dates/m-p/3780588/highlight/true#M6002
@@ -47,19 +46,19 @@ https://support.microsoft.com/en-us/office/set-and-save-a-baseline-ac855151-34f2
 
 ### Fields
 
-- Name
-- Assigned to
-- Duration
-- Start
-- Finish
-- % Complete
-- Effort completed
-- Effort remaining
-- Effort
-- Depends on 
-- Dependents (after)
-- Bucket
-- Priority
+- `Name`
+- `Assigned to`
+- `Duration`
+- `Start`
+- `Finish`
+- `% Complete`
+- `Effort completed`
+- `Effort remaining`
+- `Effort`
+- `Depends on` 
+- `Dependents` (after)
+- `Bucket`
+- `Priority`
 - conditional coloring
 
 ### Task

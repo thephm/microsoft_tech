@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - post
 url: https://techcommunity.microsoft.com/t5/planner-blog/the-new-microsoft-planner-a-unified-experience-bringing-together/ba-p/3977998
 slug: 
 organizations: 
