@@ -1,6 +1,17 @@
-# Microsoft 365 Project Management vs. Standalone Project Management Software
+---
+tags:
+  - article
+url: https://sharepointmaven.com/microsoft-365-project-management-vs-standalone-project-management-software/
+date: 2022-11-17
+slug:
+  - gregory-zelfond
+read: no
+service: blog
+products:
+  - m365
+---
 
-![rw-book-cover](https://sharepointmaven.com/wp-content/uploads/2022/11/gears-gf523fd831_1280.png)
+# Microsoft 365 Project Management vs. Standalone Project Management Software
 
 - Author: [[Gregory Zelfond]]
 - URL: https://sharepointmaven.com/microsoft-365-project-management-vs-standalone-project-management-software/
@@ -25,8 +36,10 @@
 - Lack of project management-specific templates and artifacts
   Since Microsoft 365 is not a dedicated Project Management application and is used in various use cases, it does not have many project management-specific templates and artifacts. There is a Teams template in Teams and a custom site design for a project site, but everything else must be manually created.
 - if you are a project manager and need to quickly get a dashboard on the state of a project or multiple projects – you would need to manually configure proper reports/dashboards in [**Power BI**](https://sharepointmaven.com/what-is-powerbi/).
+
 ## New highlights added October 22, 2023 at 7:25 PM
-- Too many choices for one use case
-	- Another issue with Microsoft 365 is that it suffers from the **“What to use when”** syndrome. There are many tools within Microsoft 365 that kind of do the same thing, and before you embark on a project management journey, you first have to set standards and common apps to use within your organization/project management office (PMO). For example, we have [**Planner and Project for the Web**](https://sharepointmaven.com/an-overview-of-task-management-options-in-sharepoint-and-office-365/), and some would argue [**Lists**](https://sharepointmaven.com/lists-or-planner/) – which could all be used for project management. Likewise, we have [**Teams and Yammer**](https://sharepointmaven.com/teams-vs-yammer/) as well. I compare various task tools available within Microsoft 365 in [**this article**](https://sharepointmaven.com/an-overview-of-task-management-options-in-sharepoint-and-office-365/).
-- Integration between Teams and 3rd party Project Management Software
+-
+Too many choices for one use case
+	- Another issue with [[Microsoft 365]] is that it suffers from the **“What to use when”** syndrome. There are many tools within Microsoft 365 that kind of do the same thing, and before you embark on a project management journey, you first have to set standards and common apps to use within your organization/project management office (PMO). For example, we have [**Planner and Project for the Web**](https://sharepointmaven.com/an-overview-of-task-management-options-in-sharepoint-and-office-365/), and some would argue [**Lists**](https://sharepointmaven.com/lists-or-planner/) – which could all be used for project management. Likewise, we have [**Teams and Yammer**](https://sharepointmaven.com/teams-vs-yammer/) as well. I compare various task tools available within Microsoft 365 in [**this article**](https://sharepointmaven.com/an-overview-of-task-management-options-in-sharepoint-and-office-365/).
+- Integration between [[Teams]] and 3rd party Project Management Software
 	- If you are debating on whether to stay with your current project management software or switch entirely to the Microsoft 365 set of applications, this feature I am about to describe will definitely impact your decision. Most well-known project management software like Asana, ClickUp, Monday.com, Wrike, Smartsheet, etc., have integration with Microsoft Teams, where you can add those applications as tabs in Teams channels and essentially associate projects you already manage elsewhere with Teams/Microsoft 365 Groups. This option is great if you have already set up some rules, workflows, templates, and methodology in the PM software and just want to enhance collaboration by adding the power of Microsoft Teams.

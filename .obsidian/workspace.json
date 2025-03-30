@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "planner/Tasks by Planner.md",
-                "mode": "source",
+                "file": "planner/Microsoft 365 Project Management vs. Standalone Project Management Software.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Tasks by Planner"
+              "title": "Microsoft 365 Project Management vs. Standalone Project Management Software"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "planner/Tasks by Planner.md",
+                "file": "planner/Microsoft 365 Project Management vs. Standalone Project Management Software.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Tasks by Planner"
+              "title": "Backlinks for Microsoft 365 Project Management vs. Standalone Project Management Software"
             }
           },
           {
@@ -170,8 +170,14 @@
   },
   "active": "1867f4ed2274363a",
   "lastOpenFiles": [
-    "planner/What's new in Microsoft Planner - January 2025  Microsoft Community Hub.md",
+    "planner/Microsoft 365 Project Management vs. Standalone Project Management Software 1.md",
+    "planner/Microsoft 365 Project Management vs. Standalone Project Management Software.md",
+    "planner/Meet the new Microsoft Planner.md",
+    "planner/Hidden Gems of Microsoft 365 Planner.md",
+    "planner/About plans that aren't in groups.md",
+    "ms365/groups/Microsoft 365 Groups.md",
     "planner/Tasks by Planner.md",
+    "planner/What's new in Microsoft Planner - January 2025  Microsoft Community Hub.md",
     "planner/Project for the Web.md",
     "planner/New MS Planner AMA.md",
     "planner/MS Planner Coming.md",
@@ -181,8 +187,6 @@
     "planner/Microsoft Project Names and Logos History.md",
     "planner/Microsoft Planner Premium Data Model & Integration.md",
     "planner/Microsoft Planner.md",
-    "planner/Meet the new Microsoft Planner.md",
-    "planner/Hidden Gems of Microsoft 365 Planner.md",
     "Dataverse Connectors.md",
     "dataverse/Dataverse.md",
     "planner/media/Feature table - Outlook Tasks - To-Do - Teams - Planner - Planner Premium.png",
@@ -206,10 +210,6 @@
     "planner/media/pin a tab for Planner and create a shared space.mp4",
     "Clippings",
     "todo/highlight text in outlook and create task in todo.md",
-    "todo/Microsoft To Do.md",
-    "posts/Hello World..md",
-    "posts/Project Desktop vs. Planner Premium.md",
-    "people/brian-smith/Brian Smith.md",
     "people/brian-smith",
     "power_apps/media",
     "tasks/media",

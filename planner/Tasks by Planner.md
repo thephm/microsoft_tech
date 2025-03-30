@@ -1,6 +1,7 @@
 ---
 source: chatGPT
 ---
+
 # Tasks by Planner
 
 **"Tasks by Planner"** is the **Teams app for [[Microsoft Planner]] and [[Microsoft To Do]]**. It integrates both task management tools into Microsoft Teams, allowing users to manage **individual and team tasks** in a single place.

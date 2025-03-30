@@ -1,6 +1,8 @@
 ---
 tags: [product]
-aliases: [null]
+aliases: 
+  - Microsoft 365 Group
+  - MS365 Group
 organizations: [microsoft]
 products: [365-groups]
 url: null

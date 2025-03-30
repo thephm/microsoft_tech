@@ -2,7 +2,7 @@
 
 https://support.microsoft.com/en-us/office/about-plans-that-aren-t-in-groups-3208332f-14db-408d-ba2a-58eea26b19d5
 
-> Some plans in Planner aren't attached to a Microsoft 365 group. These plans are used when it would be cumbersome to add another group, and when the plan is temporary, for example when you create a plan from a [task list in meeting notes](https://support.microsoft.com/en-us/office/manage-your-tasks-from-loop-task-lists-and-collaborative-notes-in-planner-and-to-do-94383070-5f2f-4954-8607-7b7ebff5d43e).
+> Some plans in [[Planner]] aren't attached to a [[Microsoft 365 Groups|Microsoft 365 Group]]. These plans are used when it would be cumbersome to add another group, and when the plan is temporary, for example when you create a plan from a [task list in meeting notes](https://support.microsoft.com/en-us/office/manage-your-tasks-from-loop-task-lists-and-collaborative-notes-in-planner-and-to-do-94383070-5f2f-4954-8607-7b7ebff5d43e).
 > 
 > Because these plans aren't attached to a Microsoft 365 group: 
 > 
