@@ -48,7 +48,7 @@ Primary entities and their relationships:
 - **Resource**: People or generic resources that can be assigned to tasks
 - **Assignment**: The connection between a task and a resource
 - **Team Member**: Resources specifically associated with the project
-- 
+
 ## Detailed Entity Reference
 
 ### Project Entity (`msdyn_project`)
@@ -461,7 +461,7 @@ For teams looking to extend Planner Premium with custom functionality:
 2. **Security considerations**:
    - Flows run with the permissions of their connection
    - Consider using application users with appropriate security roles
-- 
+
 ### Developer Sandbox Approach
 
 For learning and experimentation:

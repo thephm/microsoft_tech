@@ -1,7 +1,7 @@
 ---
 tags:
   - post
-url: 
+url: https://planner-ms.ghost.io/project-professional-vs-planner-premium/
 date: 2025-03-16
 people: otto
 service: ghost

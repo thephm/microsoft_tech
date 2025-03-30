@@ -18,17 +18,10 @@ This is the [Recording](https://aka.ms/NewPlanner/AMA)
 ## Links
 
 - [The new Planner in Teams is now in Public Preview](https://techcommunity.microsoft.com/t5/planner-blog/the-new-planner-in-teams-is-now-in-public-preview/ba-p/4072525)
-
 - [Licensing](https://learn.microsoft.com/en-us/office365/servicedescriptions/project-online-service-description/project-web-service-description)
-
 - [Feedback portal](https://aka.ms/plannerfeedback)
-
 - [FAQ](https://aka.ms/newplannerfaq)
-
 - [The new Microsoft Planner begins roll out to General Availability](https://techcommunity.microsoft.com/t5/planner-blog/the-new-microsoft-planner-begins-roll-out-to-general/ba-p/4101056) by Roberto Bojorquez
-
----
-
 # From the call
 
 > Users don't need to where the data is stored

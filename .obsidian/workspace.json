@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "planner/Microsoft 365 Project Management vs. Standalone Project Management Software.md",
-                "mode": "preview",
-                "source": true
+                "file": "posts/SharePoint Bunnies.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Microsoft 365 Project Management vs. Standalone Project Management Software"
+              "title": "SharePoint Bunnies"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "planner/Microsoft 365 Project Management vs. Standalone Project Management Software.md",
+                "file": "posts/SharePoint Bunnies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Microsoft 365 Project Management vs. Standalone Project Management Software"
+              "title": "Backlinks for SharePoint Bunnies"
             }
           },
           {
@@ -170,51 +170,51 @@
   },
   "active": "1867f4ed2274363a",
   "lastOpenFiles": [
+    "posts/Project Desktop vs. Planner Premium.md",
+    "posts/Microsoft Project Professional vs. Planner Premium - a detailed comparison.md",
+    "posts/Hello World..md",
+    "posts/SharePoint Bunnies.md",
+    "power_apps/Hidden Gems of Microsoft 365  Power Apps.md",
+    "power_automate/Introducing Power Automate.md",
+    "power_automate/Dataverse Connectors.md",
+    "power_toys/Power Toys for Windows.md",
+    "redis/Redis Cache.md",
+    "teams/media/Teams open files in Teams ugh!.pdf",
+    "teams/media/Teams - Settings.png",
+    "teams/media/Microsoft Teams - 2021-11-16.png",
+    "teams/media/Microsoft Tasks in Teams.png",
+    "teams/media/Create a task in Teams message.png",
+    "sharepoint_lists/media/Listbusters on LinkedIn - 2023-08-25.jpg",
+    "sharepoint_lists/media/Microsoft Lists - Create a List.png",
+    "power_apps/Power Apps.md",
+    "README.md",
+    "planner/New MS Planner AMA.md",
+    "planner/Microsoft Project Professional vs. Planner Premium - a detailed comparison.md",
+    "planner/Microsoft Planner Premium Data Model & Integration.md",
+    "sharepoint_lists/Microsoft Lists.md",
+    "Power Apps.md",
+    "power_apps/The_new_Planner_is_simple_GIF.gif",
+    "planner/media/The_new_Planner_is_scalable_GIF.gif",
+    "planner/media/Microsoft_Planner_Loop_component_GIF.gif",
+    "planner/media/The_new_Planner_is_flexible_GIF.gif",
+    "planner/MS Planner Coming.md",
+    "planner/Microsoft Task.md",
+    "planner/Microsoft Project Names and Logos History.md",
+    "planner/Microsoft Planner Premium.md",
+    "planner/Microsoft Planner.md",
     "planner/Microsoft 365 Project Management vs. Standalone Project Management Software 1.md",
-    "planner/Microsoft 365 Project Management vs. Standalone Project Management Software.md",
     "planner/Meet the new Microsoft Planner.md",
     "planner/Hidden Gems of Microsoft 365 Planner.md",
+    "Projects/RPA/Power Automate.md",
+    "Projects/RPA",
+    "Projects",
     "planner/About plans that aren't in groups.md",
-    "ms365/groups/Microsoft 365 Groups.md",
-    "planner/Tasks by Planner.md",
-    "planner/What's new in Microsoft Planner - January 2025  Microsoft Community Hub.md",
-    "planner/Project for the Web.md",
-    "planner/New MS Planner AMA.md",
-    "planner/MS Planner Coming.md",
-    "planner/Microsoft task.md",
-    "planner/Microsoft Planner Premium.md",
-    "planner/Microsoft Project Professional vs. Planner Premium - a detailed comparison.md",
-    "planner/Microsoft Project Names and Logos History.md",
-    "planner/Microsoft Planner Premium Data Model & Integration.md",
-    "planner/Microsoft Planner.md",
-    "Dataverse Connectors.md",
-    "dataverse/Dataverse.md",
-    "planner/media/Feature table - Outlook Tasks - To-Do - Teams - Planner - Planner Premium.png",
-    "planner/media/Planner - Templates.png",
-    "Clippings/Dependencies in (the new!) Microsoft Planner  LinkedIn.md",
-    "planner/media/Planner Dependencies - Finish to Start - Immediate.png",
-    "planner/media/Planner Dependencies - Finish to Start - Lead by.png",
-    "planner/media/Planner Dependencies - Finish to Start - Lag by.png",
-    "planner/media/Planner Dependencies - Finish to Finish - Immediate.png",
-    "planner/media/Planner Dependencies - Finish to Finish - Lead delay.png",
-    "planner/media/Planner Dependencies - Start-to-Start - SS - with Immediate delay type.png",
-    "planner/media/Planner Dependencies - Start-to-Finish - SF - with Immediate delay type.png",
-    "loop/Mastering Microsoft Loop Storage Management A Guide for Administrators and Users.md",
-    "loop/media/Loop Storage Context from Apps Perspective.png",
-    "power_apps/Power Apps and Power Platform.md",
     "dataverse",
-    "power_apps/How to capture photos using PowerApps.md",
-    "power_apps/Hidden Gems of Microsoft 365  Power Apps.md",
-    "power_apps/Microsoft Power Apps.md",
     "planner/media/pin a tab for Planner and create a shared space.mp4.crswap",
     "planner/media/pin a tab for Planner and create a shared space.mp4",
     "Clippings",
-    "todo/highlight text in outlook and create task in todo.md",
     "people/brian-smith",
     "power_apps/media",
-    "tasks/media",
-    "tasks",
-    "todo/media",
-    "teams/media/Teams open files in Teams ugh!.pdf"
+    "tasks/media"
   ]
 }

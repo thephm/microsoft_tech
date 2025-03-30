@@ -23,7 +23,7 @@ reddit_id: MicrosoftPlanner
 - Launched 2016
 - for teams, part of Microsoft 365 work or school subscription (not in Office 365 i.e., not for personal use)
 - Web, Android, iOS apps
-- Now part of "[[Microsoft task]] ecosystem" announced at Ignite in 2019
+- Now part of "[[Microsoft Task]] ecosystem" announced at Ignite in 2019
 
 ## Quotes
 
@@ -90,11 +90,11 @@ Linked from [9]
 - [Planner hub](https://techcommunity.microsoft.com/t5/planner/ct-p/Planner) in Microsoft Tech Community
 - [Is Planner discontinued by Microsoft?](https://techcommunity.microsoft.com/t5/planner/is-planner-discontinued-by-microsoft/m-p/1169779)
 - [Planner limits](https://learn.microsoft.com/en-us/office365/planner/planner-limits)
-	- Max. assignees in a task: 11
-	- Max. checklist items in a task: 20
-	- Max. references on a task: 10
-	- Max. tasks assigned to a user: 3,000
-	- Max. tasks created by a user: 20,000
+	- Max. assignees in a task: `11`
+	- Max. checklist items in a task: `20`
+	- Max. references on a task: `10`
+	- Max. tasks assigned to a user: `3,000`
+	- Max. tasks created by a user: `20,000`
 
 ## Guests
 

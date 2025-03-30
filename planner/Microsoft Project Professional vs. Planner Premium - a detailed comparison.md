@@ -22,15 +22,15 @@ This post is a result of long chats with Claude.ai and my edits based on my view
 
 **Microsoft Project Professional:**
 
-- Standalone perpetual license: $1,129.99 (one-time purchase)
-- Project Plan 3 (includes Project Professional): $30 per user/month
-- Project Plan 5 (includes Project Professional plus premium features): $55 per user/month
+- Standalone perpetual license: `$1,129.99` (one-time purchase)
+- Project Plan 3 (includes Project Professional): `$30` per user/month
+- Project Plan 5 (includes Project Professional plus premium features): `$55` per user/month
 - Requires separate purchase outside of Microsoft 365 subscriptions
 
 **Microsoft Planner Premium:**
 
-- Included with Microsoft 365 Business Standard: $12.50 per user/month
-- Included with Microsoft 365 Business Premium: $22 per user/month
+- Included with Microsoft 365 Business Standard: `$12.50` per user/month
+- Included with Microsoft 365 Business Premium: `$22` per user/month
 - Included with Microsoft 365 E3/E5 enterprise plans
 - No standalone purchase option; part of broader Microsoft 365 ecosystem
 

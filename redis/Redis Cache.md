@@ -1,6 +1,6 @@
 # Redis Cache
 
-Redis Cache, particularly Azure Redis Cache which is based on the popular open-source Redis data structure server, offers a powerful way to enhance application performance through in-memory data storage and retrieval. Here are some of the best features of Redis Cache that make it a favored choice for developers and enterprises:​
+Redis Cache, particularly [[Azure Redis Cache]] which is based on the popular open-source Redis data structure server, offers a powerful way to enhance application performance through in-memory data storage and retrieval. Here are some of the best features of Redis Cache that make it a favored choice for developers and enterprises:​
 
 - High Performance: Redis Cache operates in-memory, rather than on disk, making it exceptionally fast. It can serve thousands of requests per second for real-time applications like gaming leaderboards, real-time analytics, and high-speed transactions.​
     
