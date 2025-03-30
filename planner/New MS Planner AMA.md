@@ -49,7 +49,7 @@ This is the [Recording](https://aka.ms/NewPlanner/AMA)
 
 - Premium features like baselining are being worked on and portfolios. Won't be in basic plans.
 
-- Project for the web bringing into Planner in Teams. Will bring to the later
+- Project for the web bringing into Planner in Teams. Will bring to the Web later
 
 - Actively working on bringing Project online and Project desktop features to New Planner as premium features e.g. Baseline and portfolios
 
@@ -83,7 +83,7 @@ Cody Olson
 
 > Hey there! Does this new version of Planner incorporate the P4W Accelerator? It has been a headache needing to constantly copy over all the tasks/to do's into a second area. I like the idea of having project, planner, and to-do all connected, but I have found very little info regarding if this also covers the accelerator version of P4W. Looking forward to the meeting on April 4th!
 
-Brian Smith (CSS), Microsoft
+[[Brian Smith]] (CSS), Microsoft
  
 > It doesn't directly, but if you have the Accelerator also loaded in your default Dataverse environment then any plan tasks assigned will show up in new Planner. If you have the accelerator in named environments then this will be supported at a later date.
 
@@ -163,7 +163,11 @@ immrted1966
 
 Brian-Smith (CSS), Microsoft
 
-> The deeper resource management capabilities of Project for the web aren't exposed in new Planner at this point immrted1966 - [this article](https://learn.microsoft.com/en-us/project-for-the-web/overview-universal-resource-scheduling) will help you understand what is already available via the Power Apps interface 
+> The deeper resource management capabilities of Project for the web aren't exposed in new Planner at this point
+ 
+immrted1966
+
+> [this article](https://learn.microsoft.com/en-us/project-for-the-web/overview-universal-resource-scheduling) will help you understand what is already available via the [[Power Apps]] interface 
 
 ---
 
@@ -179,7 +183,7 @@ Brian Smith (CSS), Microsoft
 
 Jeanne Darche
  
-> Will there be functionnality to see human resources occupancy rate? Like how much of employee 1's time is already booked in total? Overall, not just on one project. Right now: - We can only see occupancy for one project at a time - We can add time for a task and add it to an employee, but the total for the employee also includes done tasks! We have no way to filter down to eliminate done tasks for the total.
+> Will there be functionality to see human resources occupancy rate? Like how much of employee 1's time is already booked in total? Overall, not just on one project. Right now: - We can only see occupancy for one project at a time - We can add time for a task and add it to an employee, but the total for the employee also includes done tasks! We have no way to filter down to eliminate done tasks for the total.
 
 Brian Smith (CSS), Microsoft
 
@@ -211,7 +215,7 @@ Bailey Souza
 
 Brian Smith (CSS), Microsoft
 
-> Assignments from premium plans (Projects) in the default Dataverse will show up in the users My Tasks and My Day as appropriate Bailey. Notifications will also be unified across the plans. I like the idea of being able to add subtasks from the task itself, rather than having to use the grid (which you need to do today) - be sure to give us that feedback over at https://feedbackportal.microsoft.com/feedback/forum/a1a93b69-2f1c-ec11-b6e7-0022481f8472 too so others can vote on it. Copilot will also be able to 'indent tasks' and I think some of these types of commands, which seem trivial, will soon become a common way of interacting with the plan - as they can be used regardless of the view you are in.
+> Assignments from premium plans (Projects) in the default [[Dataverse]] will show up in the users My Tasks and My Day as appropriate Bailey. Notifications will also be unified across the plans. I like the idea of being able to add subtasks from the task itself, rather than having to use the grid (which you need to do today) - be sure to give us that feedback over at https://feedbackportal.microsoft.com/feedback/forum/a1a93b69-2f1c-ec11-b6e7-0022481f8472 too so others can vote on it. Copilot will also be able to 'indent tasks' and I think some of these types of commands, which seem trivial, will soon become a common way of interacting with the plan - as they can be used regardless of the view you are in.
 
 ---
 
@@ -255,7 +259,7 @@ Laura Becker, Microsoft
 
 Mark Kashman, Microsoft
 
-> [This is the Project + guests article](https://techcommunity.microsoft.com/t5/project-blog/guest-access-now-av) Roberto mentioned, "Guest access now available in Project for the Web!"
+> [This is the Project guests article](https://techcommunity.microsoft.com/t5/project-blog/guest-access-now-av) Roberto mentioned, "Guest access now available in Project for the Web!"
 
 ---
 

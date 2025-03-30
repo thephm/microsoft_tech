@@ -9,7 +9,6 @@ phone:
 linkedin_id: 
 x_id: 
 ---
-
 # Microsoft To Do
 
 > The To Do app lets you list all your tasks and sort them so you can focus on what’s important. It features a [[My Day]] list for your daily tasks and also allows you to create additional lists to organize your work, projects, groceries, and so on. - [1]

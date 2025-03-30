@@ -10,7 +10,7 @@ duration: 5
 
 # Hidden Gems of Microsoft 365 | Planner
 
-![rw-book-cover](http://static1.squarespace.com/static/5ea06be037d76a7e608b040f/5ea0734450a5432d664fbd68/61891ffb7923631820363a16/1670843520442/hidden-gems-planner-preview-16by9.jpg?format=1500w)
+![[Hidden Gems - Planner - Microsoft 365.png]]
 
 Author: [[Pinnaca Team]]
 URL: https://www.pinnacaretail.com/blog/hidden-gems-of-microsoft-365-planner

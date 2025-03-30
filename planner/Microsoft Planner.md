@@ -16,7 +16,6 @@ linkedin_id:
 x_id: 
 reddit_id: MicrosoftPlanner
 ---
-
 # Microsoft Planner
 
 ## Summary

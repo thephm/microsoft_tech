@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "827cab55af69f0dd",
+        "id": "07705ce3ae2dba50",
         "type": "tabs",
         "children": [
           {
-            "id": "16aaadb5b12d99d9",
+            "id": "1867f4ed2274363a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "loop/Loop.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Loop"
+              "title": "New tab"
             }
           }
         ]
@@ -94,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "loop/Loop.md",
+                "file": "planner/New MS Planner AMA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +100,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Loop"
+              "title": "Backlinks for New MS Planner AMA"
             }
           },
           {
@@ -155,7 +151,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,53 +165,52 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "16aaadb5b12d99d9",
+  "active": "1867f4ed2274363a",
   "lastOpenFiles": [
-    "posts/SharePoint Bunnies.md",
-    "loop/Loop.md",
-    "templates/Chat.md",
-    "posts/Google Skates and Microsoft Boots.md",
-    "people/mark-kashman/2024-04-08.md",
-    "development/ASP.NET Core.md",
-    "windows/Microsoft Windows Widgets.md",
-    "sharepoint/media/SharePoint - add-ins.png",
-    "sharepoint/How to connect to an Excel or CSV on SharePoint - OneDrive using Power Query.md",
-    "sharepoint/Microsoft Files in M365.md",
-    "sharepoint/Microsoft Sharepoint.md",
-    "sharepoint/SharePoint.md",
-    "sharepoint/SharePoint Add-Ins.md",
-    "sharepoint/SharePoint and Teams.md",
-    "sharepoint/SharePoint connecting Webparts.md",
-    "sharepoint/SharePoint lookup columns.md",
-    "sharepoint/SharePoint Sites and Content API Overview.md",
-    "sharepoint/SharePoint Teams site vs Collaboration site.md",
-    "sharepoint/SharePoint tips.md",
-    "tasks/media/Microsoft - Tasks - TPS Report.png",
-    "tasks/media/Microsoft - Tasks - Open in Outlook.png",
-    "tasks/media/Create tasks from Outlook email.jpg",
-    "teams/Add a Kanban board to Teams.md",
-    "teams/Announcement in Teams.md",
-    "teams/Instant polls in Teams.md",
-    "teams/Microsoft Teams Tasks.md",
-    "teams/Share files in Microsoft Teams meetings using OneDrive Shortcuts.md",
-    "teams/Teams open files in Teams ugh!.md",
-    "templates/Product.md",
-    "templates/Video.md",
-    "todo/media/Outlook ToDo Tasks.jpg",
-    "todo/media/Microsoft To Do - My Day - Suggestions.png",
-    "sharepoint_lists/media/SharePoint Lists.png",
-    "sharepoint_lists/media/Microsoft Lists - New Rating Column.jpg",
-    "sharepoint_lists/media/Microsoft Lists - Create a List.png",
-    "planner/media/Microsoft - Hone your task management skills.png",
+    "planner/media/Feature table - Outlook Tasks - To-Do - Teams - Planner - Planner Premium.png",
+    "dataverse/Dataverse.md",
+    "planner/media/Planner - Templates.png",
+    "Clippings/Dependencies in (the new!) Microsoft Planner  LinkedIn.md",
+    "planner/media/Planner Dependencies - Finish to Start - Immediate.png",
+    "planner/media/Planner Dependencies - Finish to Start - Lead by.png",
+    "planner/media/Planner Dependencies - Finish to Start - Lag by.png",
+    "planner/media/Planner Dependencies - Finish to Finish - Immediate.png",
+    "planner/media/Planner Dependencies - Finish to Finish - Lead delay.png",
+    "planner/media/Planner Dependencies - Start-to-Start - SS - with Immediate delay type.png",
+    "planner/media/Planner Dependencies - Start-to-Finish - SF - with Immediate delay type.png",
+    "planner/New MS Planner AMA.md",
+    "planner/Microsoft Project Professional vs. Planner Premium - a detailed comparison.md",
+    "loop/Mastering Microsoft Loop Storage Management A Guide for Administrators and Users.md",
+    "loop/media/Loop Storage Context from Apps Perspective.png",
+    "power_apps/Power Apps and Power Platform.md",
+    "dataverse",
+    "power_apps/How to capture photos using PowerApps.md",
+    "power_apps/Hidden Gems of Microsoft 365  Power Apps.md",
+    "power_apps/Microsoft Power Apps.md",
+    "planner/What's new in Microsoft Planner - January 2025  Microsoft Community Hub.md",
+    "planner/media/pin a tab for Planner and create a shared space.mp4.crswap",
+    "planner/media/pin a tab for Planner and create a shared space.mp4",
+    "Clippings",
+    "todo/highlight text in outlook and create task in todo.md",
+    "todo/Microsoft To Do.md",
+    "posts/Hello World..md",
+    "posts/Project Desktop vs. Planner Premium.md",
+    "people/brian-smith/Brian Smith.md",
+    "people/brian-smith",
+    "planner/Microsoft task.md",
+    "planner/MS Planner Coming.md",
+    "planner/Microsoft Project Names and Logos History.md",
+    "planner/Microsoft Planner.md",
+    "planner/Microsoft 365 Project Management vs. Standalone Project Management Software 1.md",
+    "planner/Microsoft 365 Project Management vs. Standalone Project Management Software.md",
+    "planner/Meet the new Microsoft Planner.md",
+    "development/Microsoft Planner API.md",
+    "planner/Tasks by Planner.md",
+    "planner/About plans that aren't in groups.md",
     "power_apps/media",
     "tasks/media",
     "tasks",
     "todo/media",
-    "teams/media/Teams open files in Teams ugh!.pdf",
-    "sharepoint/media",
-    "development/media",
-    "office/media",
-    "azure/media",
-    "teams/media"
+    "teams/media/Teams open files in Teams ugh!.pdf"
   ]
 }
