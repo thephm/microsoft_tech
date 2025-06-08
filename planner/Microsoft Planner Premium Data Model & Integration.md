@@ -28,7 +28,7 @@ Key points about the storage architecture:
 - [[Power Apps]] and [[Power Automate]] can interact with the data via [[Dataverse Connectors]]
 ## Core Data Model
 
-The [[Microsoft Planner Premium]] data model follows a hierarchical structure:
+The [[Microsoft Planner premium plans]] data model follows a hierarchical structure:
 
 ```
 Project
@@ -336,7 +336,7 @@ Primary entities and their relationships:
 
 ## Permission Model
 
-Permission sharing in [[Microsoft Planner Premium]] works at multiple levels:
+Permission sharing in [[Microsoft Planner premium plans]] works at multiple levels:
 
 ### Schedule-Level Permissions
 

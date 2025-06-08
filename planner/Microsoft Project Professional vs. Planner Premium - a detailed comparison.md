@@ -1,4 +1,4 @@
-# Microsoft Project Professional vs. Planner Premium: a detailed comparison
+# Microsoft Project Professional vs. Planner premium plans: a detailed comparison
 
 This post is a result of long chats with Claude.ai and my edits based on my views and perspectives and newer features implemented in Planner Premium that Claude doesn't know about. I hope you find it helpful and please let me know if you find any errors or you disagree in a material way with any of the points.
   

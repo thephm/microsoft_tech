@@ -27,7 +27,7 @@ Get started quickly with new out-of-box templates. We’ve added new premium tem
 
 ![[Planner - Templates window.png]]*A cropped screenshot of the Templates window where users can select from one of more than a dozen templates to create a new plan.*
 
-The Project Manager agent, [announced at Ignite](https://techcommunity.microsoft.com/blog/plannerblog/unleashing-the-power-of-agents-in-microsoft-planner/4304794), is now available in public preview to Planner users with eligible licenses in North America and Asia-Pacific regions. We will be rolling it out to our European customers in the upcoming weeks.
+The [[Project Manager agent]], [announced at Ignite](https://techcommunity.microsoft.com/blog/plannerblog/unleashing-the-power-of-agents-in-microsoft-planner/4304794), is now available in public preview to Planner users with eligible licenses in North America and Asia-Pacific regions. We will be rolling it out to our European customers in the upcoming weeks.
 
 The Project Manager agent is an AI-powered virtual project manager designed to enhance your planning experience by streamlining workflows and handling tasks on your behalf. The Project Manager agent integrates AI directly into your plans, empowering you to focus on strategy, while enabling smarter team collaboration.
 

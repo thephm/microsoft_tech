@@ -14,7 +14,7 @@ phone:
 linkedin_id: 
 x_id:
 ---
-# Microsoft Planner Premium
+# Microsoft Planner premium plans
 
 ## Summary
 

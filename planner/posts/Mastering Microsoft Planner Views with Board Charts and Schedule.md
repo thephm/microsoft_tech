@@ -44,16 +44,6 @@ The Schedule view displays tasks in a calendar format, helping you understand ti
 - Planning around holidays and team availability
 
 **Pro tip:** Toggle between month, week, and day views using the buttons in the top-right corner of the Schedule view for different planning horizons.
-## Keyboard Shortcuts for Quick Navigation
-
-Save time with these essential keyboard shortcuts:
-
-- **Alt + B** - Switch to Board view
-- **Alt + C** - Switch to Charts view
-- **Alt + S** - Switch to Schedule view
-- **Tab** - Navigate between elements
-- **Enter** - Open selected task
-- **Ctrl + N** - Create new task
 ## Customizing Views for Maximum Productivity
 
 ### Personalizing Board View
@@ -70,7 +60,7 @@ Save time with these essential keyboard shortcuts:
 2. Color-code tasks by using labels or priority settings
 3. Use the filter options to focus on specific team members' schedules
 4. Click and drag tasks to quickly reschedule them
-## Real-World Workflow Examples
+## Workflow Examples
 
 ### Product Development Team
 - **Monday Morning:** Start in Charts view to assess overall progress and team workload
@@ -82,16 +72,6 @@ Save time with these essential keyboard shortcuts:
 - **Daily Execution:** Work in Board view to track task progress through approval stages
 - **Weekly Leadership Update:** Switch to Charts view to showcase progress and resource allocation
 - **Content Calendar Management:** Leverage Schedule view to visualize content publication timeline
-## Common View-Related Challenges
-
-### Challenge: Board becomes cluttered with too many tasks
-**Solution:** Archive completed tasks regularly and create separate plans for distinct project phases.
-### Challenge: Charts don't reflect actual project status
-**Solution:** Ensure team members update task progress and completion status regularly. Set aside "housekeeping time" each week.
-
-### Challenge: Schedule view shows conflicting deadlines
-**Solution:** Use the filter function to focus on specific resources, then adjust assignments or deadlines to resolve conflicts.
-
 ## Premium View Features Worth Exploring
 
 Microsoft Planner Premium offers enhanced view capabilities:
@@ -99,15 +79,9 @@ Microsoft Planner Premium offers enhanced view capabilities:
 - **Advanced filtering** across multiple conditions
 - **Custom fields** for better task categorization
 - **Timeline view** for Gantt-style project visualization
-- **Workload balancing** tools for resource management
-- **Saved views** to quickly switch between frequently used configurations
 
 ## Conclusion
 
 Mastering Planner's different views isn't just about knowing where to click—it's about developing workflows that leverage each view's strengths. By understanding when to use Board, Charts, or Schedule view, you'll gain better control over your projects and improve team productivity.
 
 Remember that the most effective approach often involves switching between views throughout your project management cycle. Don't get stuck in one view when another might provide the perspective you need to solve a particular challenge.
-
----
-
-*Next week: Dive into our detailed guide on "Buckets, Tasks, and Subtasks: Building a Clear Project Structure" to take your Microsoft Planner organization to the next level.*

@@ -1,32 +1,24 @@
+https://support.microsoft.com/en-us/office/use-the-project-or-roadmap-app-in-teams-2dc584e6-2f6c-4e2d-9008-0b3f6845eb52
+
 I'm looking more for features that are difficult to understand or use that generated questions which I could provide simplified explanations or walkthroughs of
 
-    Here are some key areas to consider:
+Here are some key areas to consider:
 
 1. Timeline (Gantt) View
 
-Challenge:    
+- [x] Task Dependencies
 
-Walkthrough Suggestion:  
-
-2. Task Dependencies
-
-Challenge:  
-
-Walkthrough Suggestion: Develop a tutorial that explains each type of dependency with real-world examples, demonstrating how to link tasks and the impact on project timelines.
+	Walkthrough Suggestion: Develop a tutorial that explains each type of dependency with real-world examples, demonstrating how to link tasks and the impact on project timelines.
 
 3. Custom Fields and Conditional Coloring
 
 Challenge: Customizing tasks with additional fields and applying conditional formatting can be overwhelming for users without prior experience in customization.
 
-1. Task Dependencies (Finish-to-Start, Start-to-Start, etc.)
+- [x] Task Dependencies (Finish-to-Start, Start-to-Start, etc.) - DONE
 
 https://nboldapp.com/beginners-guide-to-planner-premium-timelines-dependencies-and-more/
 
-2. Timeline (Gantt) View
-
-3. Custom Fields and Conditional Formatting
-
-4. People View for Workload Balancing
+2. People View for Workload Balancing
 
 The People view enables managers to assess team members' workloads. Many users are unsure how to access and interpret this view. An instructional post explaining how to use the People view to balance workloads and manage resources would be beneficial.
 
@@ -36,18 +28,13 @@ https://nboldapp.com/beginners-guide-to-planner-premium-timelines-dependencies-a
 
 With the integration of Microsoft 365 Copilot, Planner Premium offers AI-powered assistance. Users often find it challenging to understand how Copilot can enhance their planning processes. A guide highlighting Copilot's capabilities and how to utilize them within Planner would be informative.
 
-6. Task History and Versioning
+- [x] Task History and Versioning
 
 Planner Premium provides a task history feature, allowing users to view changes made to tasks over time. Many are unaware of this feature or find it difficult to access. A tutorial on how to view and interpret task history would help users track changes effectively.
 
 7. Custom Calendars
 
 The ability to create custom calendars in Planner Premium allows for tailored scheduling. Users often find this feature confusing to set up. A step-by-step guide on
-
----
-
-Absolutely! Here are additional Microsoft Planner Premium features that users often find challenging to understand or utilize effectively. These topics could serve as excellent subjects for detailed blog posts or walkthroughs:
-
 
 1. Task Dependencies and Critical Path Visualization
 
@@ -79,7 +66,6 @@ Same URL and ...
 
 https://answers.microsoft.com/en-us/msteams/forum/all/planner-premium-reduced-functionality-compared-to/5114a6dd-ce66-4a19-823b-ab9982d9b0b9
 
-
 1. Task Checklist and Notes Visibility
 
 2. Progress Field Customization
@@ -94,22 +80,18 @@ https://answers.microsoft.com/en-us/msteams/forum/all/planner-premium-reduced-fu
 
 Claude
 
-For my Microsoft Planner Premium blog , I need some great topics. What is a good list of challenges people have using it? I'm looking for features that are difficult to understand or use that generated questions which I could provide simplified explanations or walkthroughs of
-
-I'd be happy to help with your Microsoft Planner Premium blog! Here are some common challenges people face with Microsoft Planner that would make excellent blog topics:
-
 1. Navigating between different views (Board, Charts, Schedule) effectively
-2. Understanding the differences between buckets, tasks, and subtasks
-3. Setting up and managing task dependencies properly
-4. Utilizing labels and categories for better organization
-5. Effectively using the filtering and grouping options
+2. - [x] Understanding the differences between buckets, tasks, and subtasks
+3. - [x] Setting up and managing task dependencies properly
+4. - [x] Utilizing labels and categories for better organization
+5. - [ ] Effectively using the filtering and grouping options
 6. Setting up recurring tasks and managing their completion
 7. Incorporating Planner with other Microsoft 365 apps (Teams, Outlook, Power Automate)
 8. Managing notifications and staying on top of updates
 9. Using the mobile app effectively compared to desktop
 10. Creating and interpreting reports and charts
-11. Managing permissions and sharing plans with the right people
-12. Understanding Premium features versus standard features
+11. - [x] Managing permissions and sharing plans with the right people
+12. - [x] Understanding Premium features versus standard features
 13. Effective resource allocation and workload management
 14. Tracking time spent on tasks
 15. Creating templates for repetitive projects

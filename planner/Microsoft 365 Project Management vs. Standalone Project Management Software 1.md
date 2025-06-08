@@ -10,7 +10,6 @@ service: blog
 products:
   - m365
 ---
-
 # Microsoft 365 Project Management vs. Standalone Project Management Software
 
 - Author: [[Gregory Zelfond]]

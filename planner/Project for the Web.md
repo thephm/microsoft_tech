@@ -18,7 +18,7 @@ github_id:
 
 ## Summary
 
-Now called [[Microsoft Planner Premium|Planner Premium]]
+Now called [[Microsoft Planner premium plans|Planner Premium]]
 ## Quotes
 
 >

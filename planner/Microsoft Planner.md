@@ -58,6 +58,7 @@ reddit_id: MicrosoftPlanner
 10. [[Hidden Gems of Microsoft 365 Planner]] - my article highlights
 11. [[Microsoft Planner API]]
 12. https://techcommunity.microsoft.com/t5/planner/ct-p/Planner
+13. [Planner Roadmap](https://www.microsoft.com/en-ca/microsoft-365/roadmap?filters=Planner)
 
 ## Other resources
 

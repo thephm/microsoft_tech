@@ -19,7 +19,7 @@ URL: https://www.pinnacaretail.com/blog/hidden-gems-of-microsoft-365-planner
 - can be used as a standalone app or as part of the larger integrated Microsoft task experience
 - What is the Microsoft Task Ecosystem?
 - [[Microsoft Planner]] is built on flexibility with not just a traditional task board view but also charts and a schedule view
-- Planner’s goal is to help you visualise your tasks, reduce work in progress, and boost productivity 
+- Planner’s goal is to help you visualize your tasks, reduce work in progress, and boost productivity 
 - create and save templates for recurring tasks
 - Connect [[Forms]] to Planner with [[Power Automate]] and automatically generate tasks for your Team from information collected in that Form
 - Outlook and Teams become hubs for task activity, whilst tasks can also easily be assigned from Word, Excel and PowerPoint
