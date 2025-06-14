@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e5234e8fa73d2bb2",
+        "id": "314d75fa56cc0f3b",
         "type": "tabs",
         "children": [
           {
-            "id": "7808fa9948d64f7a",
+            "id": "955e074ebd774891",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "planner/posts/Hello World..md",
+                "file": "planner/posts/Sprints in Microsoft Planner, a false start.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hello World."
+              "title": "Sprints in Microsoft Planner, a false start"
             }
           }
         ]
@@ -94,17 +94,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "planner/posts/Hello World..md",
+                "file": "planner/posts/Sprints in Microsoft Planner, a false start.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Hello World."
+              "title": "Backlinks for Sprints in Microsoft Planner, a false start"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stop Teams from creating a sharepoint site.md",
+                "file": "planner/posts/Sprints in Microsoft Planner, a false start.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Stop Teams from creating a sharepoint site"
+              "title": "Outgoing links from Sprints in Microsoft Planner, a false start"
             }
           },
           {
@@ -151,7 +151,8 @@
               "title": "Outline of Stop Teams from creating a sharepoint site"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -168,13 +169,23 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "7808fa9948d64f7a",
+  "active": "955e074ebd774891",
   "lastOpenFiles": [
+    "planner/media/Microsoft Planner - Filter by Sprint.png",
+    "planner/posts/Sprints in Microsoft Planner, a false start.md",
+    "planner/media/Microsoft Planner - Add Column Sprint in Grid view.png",
+    "planner/media/Microsoft Planner - View Options.png",
+    "planner/media/Microsoft Planner - Remove default sprint.png",
+    "planner/media/Microsoft Planner - Overlapping sprint.png",
+    "planner/media/Microsoft Planner - Add Sprint dialog.png",
+    "planner/media/Microsoft Planner - Project tabs, no Sprints to be found.png",
+    "planner/media/Microsoft Planner - Group by Sprint.png",
+    "planner/media/Microsoft Planner - Add Sprint.png",
+    "planner/posts/Hello World..md",
     "planner/posts/Microsoft Project Professional vs. Planner Premium - a detailed comparison.md",
     "planner/posts/Planner plans - to share or not to share - that is the question.md",
     "planner/posts/Project Desktop vs. Planner premium plans.md",
     "sharepoint/SharePoint Bunnies.md",
-    "planner/posts/Hello World..md",
     "planner/media/Pasted image 20250607103338.png",
     "resources/Microsoft Training.md",
     "resources/Microsoft Courses.md",
@@ -183,16 +194,7 @@
     "resources/Azure Course Blueprints.md",
     "redis/Redis Cache.md",
     "Project Manager agent.md",
-    "planner/media/Pasted image 20250607103318.png",
-    "planner/media/MS Planner - Goal color.png",
     "planner/posts/Goals are good, now track them in Microsoft Planner.md",
-    "planner/media/MS Planner - Goals tab.png",
-    "planner/media/MS Planner - Goal - Tasks.png",
-    "planner/media/MS Planner - Goals - Task Details.png",
-    "planner/media/MS Planner - Goals.png",
-    "planner/media/MS Planner - Filters - Goals.png",
-    "planner/media/MS Planner - Grid view - set Goal.png",
-    "planner/media/MS Planner - Grid View - Drag Goal column here.png",
     "planner/Linking tasks in Planner - Not perfect.md",
     "planner/What's new in Microsoft Planner - January 2025  Microsoft Community Hub.md",
     "planner/MS Planner Coming.md",
@@ -204,8 +206,6 @@
     "planner/Microsoft Project Names and Logos History.md",
     "planner/Microsoft Planner premium plans.md",
     "planner/Microsoft Planner Premium Data Model & Integration.md",
-    "planner/Microsoft Planner.md",
-    "planner/Microsoft 365 Project Management vs. Standalone Project Management Software 1.md",
     "people/cindy-lewis",
     "teams/media/Teams open files in Teams ugh!.pdf",
     "Projects/RPA",
