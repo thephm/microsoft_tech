@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "314d75fa56cc0f3b",
+        "id": "af557e4e7f7b81f5",
         "type": "tabs",
         "children": [
           {
-            "id": "955e074ebd774891",
+            "id": "3c335d604ad6fad2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "planner/posts/Sprints in Microsoft Planner, a false start.md",
+                "file": "planner/New MS Planner AMA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sprints in Microsoft Planner, a false start"
+              "title": "New MS Planner AMA"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "goals",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 219.5
+    "width": 367.5
   },
   "right": {
     "id": "5ea81ca34024414d",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "planner/posts/Sprints in Microsoft Planner, a false start.md",
+                "file": "planner/New MS Planner AMA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Sprints in Microsoft Planner, a false start"
+              "title": "Backlinks for New MS Planner AMA"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "planner/posts/Sprints in Microsoft Planner, a false start.md",
+                "file": "planner/New MS Planner AMA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Sprints in Microsoft Planner, a false start"
+              "title": "Outgoing links from New MS Planner AMA"
             }
           },
           {
@@ -151,8 +151,7 @@
               "title": "Outline of Stop Teams from creating a sharepoint site"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -169,24 +168,35 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "955e074ebd774891",
+  "active": "3c335d604ad6fad2",
   "lastOpenFiles": [
-    "planner/media/Microsoft Planner - Filter by Sprint.png",
+    "planner/media/P4W/Add a note.png",
+    "planner/media/P4W/Add a goal.png",
+    "planner/media/Feature table - Outlook Tasks - To-Do - Teams - Planner - Planner Premium.png",
+    "planner/media/Hidden Gems - Planner - Microsoft 365.png",
+    "planner/media/Microsoft - Hone your task management skills.png",
+    "planner/media/MS Planner logo.png",
+    "planner/posts/media/MS Project - Filters.png",
+    "planner/posts/media/MS Project - People - Incomplete - Late.png",
+    "planner/posts/media/MS Project - Filter Tasks.png",
+    "planner/posts/media/Plan has not been shared yet.png",
+    "planner/media/pin a tab for Planner and create a shared space.mp4",
+    "planner/media/The_new_Planner_is_scalable_GIF.gif",
+    "planner/posts/Conditional coloring in Microsoft Planner.md",
+    "planner/posts/media",
+    "sharepoint/Syntex.md",
+    "planner/Project for the Web.md",
+    "planner/posts/Never Miss a Deadline - Mastering Planner Notifications.md",
+    "planner/posts/MS Project for the web in custom environments.md",
+    "planner/posts/Microsoft Planner hard to use features.md",
+    "planner/media/P4W/Learning Microsoft Project for the Web.md",
+    "sharepoint/SharePoint.md",
     "planner/posts/Sprints in Microsoft Planner, a false start.md",
-    "planner/media/Microsoft Planner - Add Column Sprint in Grid view.png",
-    "planner/media/Microsoft Planner - View Options.png",
-    "planner/media/Microsoft Planner - Remove default sprint.png",
-    "planner/media/Microsoft Planner - Overlapping sprint.png",
-    "planner/media/Microsoft Planner - Add Sprint dialog.png",
-    "planner/media/Microsoft Planner - Project tabs, no Sprints to be found.png",
-    "planner/media/Microsoft Planner - Group by Sprint.png",
-    "planner/media/Microsoft Planner - Add Sprint.png",
     "planner/posts/Hello World..md",
     "planner/posts/Microsoft Project Professional vs. Planner Premium - a detailed comparison.md",
     "planner/posts/Planner plans - to share or not to share - that is the question.md",
     "planner/posts/Project Desktop vs. Planner premium plans.md",
     "sharepoint/SharePoint Bunnies.md",
-    "planner/media/Pasted image 20250607103338.png",
     "resources/Microsoft Training.md",
     "resources/Microsoft Courses.md",
     "resources/Microsoft Blues.md",
@@ -198,23 +208,13 @@
     "planner/Linking tasks in Planner - Not perfect.md",
     "planner/What's new in Microsoft Planner - January 2025  Microsoft Community Hub.md",
     "planner/MS Planner Coming.md",
-    "planner/Project for the Web.md",
-    "planner/Tasks by Planner.md",
-    "planner/New MS Planner AMA.md",
-    "planner/Microsoft Task.md",
-    "planner/Microsoft Project Professional vs. Planner Premium - a detailed comparison.md",
-    "planner/Microsoft Project Names and Logos History.md",
-    "planner/Microsoft Planner premium plans.md",
-    "planner/Microsoft Planner Premium Data Model & Integration.md",
     "people/cindy-lewis",
     "teams/media/Teams open files in Teams ugh!.pdf",
     "Projects/RPA",
     "Projects",
     "dataverse",
     "planner/media/pin a tab for Planner and create a shared space.mp4.crswap",
-    "planner/media/pin a tab for Planner and create a shared space.mp4",
     "Clippings",
-    "people/brian-smith",
-    "power_apps/media"
+    "people/brian-smith"
   ]
 }
