@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "af557e4e7f7b81f5",
+        "id": "bf00c7f7a0e63db5",
         "type": "tabs",
         "children": [
           {
-            "id": "3c335d604ad6fad2",
+            "id": "d24cdf6423562755",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "planner/New MS Planner AMA.md",
+                "file": "planner/posts/Microsoft Planner's Custom Fields of Dreams.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "New MS Planner AMA"
+              "title": "Microsoft Planner's Custom Fields of Dreams"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "planner/New MS Planner AMA.md",
+                "file": "planner/posts/Microsoft Planner's Custom Fields of Dreams.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for New MS Planner AMA"
+              "title": "Backlinks for Microsoft Planner's Custom Fields of Dreams"
             }
           },
           {
@@ -168,53 +168,52 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "3c335d604ad6fad2",
+  "active": "d24cdf6423562755",
   "lastOpenFiles": [
-    "planner/media/P4W/Add a note.png",
-    "planner/media/P4W/Add a goal.png",
-    "planner/media/Feature table - Outlook Tasks - To-Do - Teams - Planner - Planner Premium.png",
-    "planner/media/Hidden Gems - Planner - Microsoft 365.png",
-    "planner/media/Microsoft - Hone your task management skills.png",
-    "planner/media/MS Planner logo.png",
-    "planner/posts/media/MS Project - Filters.png",
-    "planner/posts/media/MS Project - People - Incomplete - Late.png",
-    "planner/posts/media/MS Project - Filter Tasks.png",
-    "planner/posts/media/Plan has not been shared yet.png",
-    "planner/media/pin a tab for Planner and create a shared space.mp4",
-    "planner/media/The_new_Planner_is_scalable_GIF.gif",
-    "planner/posts/Conditional coloring in Microsoft Planner.md",
-    "planner/posts/media",
-    "sharepoint/Syntex.md",
+    "planner/posts/media/Department of Plan in g.png",
+    "planner/posts/Microsoft Planner's Custom Fields of Dreams.md",
+    "planner/posts/media/MS Planner - Copy plan.png",
+    "planner/posts/media/MS Planner - Excel export example.png",
+    "planner/posts/media/MS Planner - Export to Excel.png",
+    "planner/posts/media/MS Planner - Rollup of number field.png",
+    "planner/posts/media/MS Planner - Edit custom field.png",
+    "planner/posts/media/MS Planner - Edit Custom Field menu.png",
+    "planner/posts/media/Fruit Roll-Ups.png",
+    "planner/posts/media/MS Planner - Grid view with some tasks having pink background.png",
+    "planner/posts/media/MS Planner - Screenshot of Conditional Coloring.png",
+    "planner/posts/ideas/Microsoft Planner hard to use features.md",
+    "planner/posts/ideas/Mastering Microsoft Planner Views with Board Charts and Schedule.md",
+    "planner/Microsoft Planner.md",
+    "planner/resources/What's new in Microsoft Planner - January 2025  Microsoft Community Hub.md",
+    "planner/Tasks by Planner.md",
     "planner/Project for the Web.md",
-    "planner/posts/Never Miss a Deadline - Mastering Planner Notifications.md",
-    "planner/posts/MS Project for the web in custom environments.md",
-    "planner/posts/Microsoft Planner hard to use features.md",
-    "planner/media/P4W/Learning Microsoft Project for the Web.md",
-    "sharepoint/SharePoint.md",
+    "planner/resources/New MS Planner AMA.md",
+    "planner/resources/MS Planner Coming.md",
+    "planner/Microsoft Task.md",
+    "planner/resources/Microsoft Planner Premium Data Model & Integration.md",
+    "planner/resources",
+    "planner/resources/Microsoft 365 Project Management vs. Standalone Project Management Software 1.md",
+    "planner/resources/Meet the new Microsoft Planner.md",
+    "planner/resources/Linking tasks in Planner - Not perfect.md",
+    "planner/resources/Hidden Gems of Microsoft 365 Planner.md",
+    "planner/resources/About plans that aren't in groups.md",
+    "planner/posts/Task History in Planner.md",
+    "planner/posts/Task Dependencies in Microsoft Planner - A Complete Guide.md",
     "planner/posts/Sprints in Microsoft Planner, a false start.md",
-    "planner/posts/Hello World..md",
-    "planner/posts/Microsoft Project Professional vs. Planner Premium - a detailed comparison.md",
-    "planner/posts/Planner plans - to share or not to share - that is the question.md",
+    "planner/posts/Seamless Integration - Microsoft Planner with Teams and Outlook and Power Automate.md",
     "planner/posts/Project Desktop vs. Planner premium plans.md",
-    "sharepoint/SharePoint Bunnies.md",
-    "resources/Microsoft Training.md",
-    "resources/Microsoft Courses.md",
-    "resources/Microsoft Blues.md",
-    "resources/Microsoft Azure Fundamentals.md",
-    "resources/Azure Course Blueprints.md",
-    "redis/Redis Cache.md",
-    "Project Manager agent.md",
-    "planner/posts/Goals are good, now track them in Microsoft Planner.md",
-    "planner/Linking tasks in Planner - Not perfect.md",
-    "planner/What's new in Microsoft Planner - January 2025  Microsoft Community Hub.md",
-    "planner/MS Planner Coming.md",
+    "planner/posts/Planner plans - to share or not to share - that is the question.md",
+    "planner/posts/Never Miss a Deadline - Mastering Planner Notifications.md",
+    "planner/posts/Microsoft Project Professional vs. Planner Premium - a detailed comparison.md",
+    "planner/posts/Labeling and Categorization Strategies That Actually Work.md",
+    "planner/posts/ideas",
+    "planner/media/pin a tab for Planner and create a shared space.mp4",
+    "planner/posts/media",
     "people/cindy-lewis",
     "teams/media/Teams open files in Teams ugh!.pdf",
     "Projects/RPA",
     "Projects",
     "dataverse",
-    "planner/media/pin a tab for Planner and create a shared space.mp4.crswap",
-    "Clippings",
-    "people/brian-smith"
+    "planner/media/pin a tab for Planner and create a shared space.mp4.crswap"
   ]
 }

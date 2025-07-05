@@ -34,13 +34,13 @@ Planner Premium provides a task history feature, allowing users to view changes 
 
 7. Custom Calendars
 
-The ability to create custom calendars in Planner Premium allows for tailored scheduling. Users often find this feature confusing to set up. A step-by-step guide on
+The ability to create custom calendars in Planner premium allows for tailored scheduling. Users often find this feature confusing to set up. A step-by-step guide on
 
-1. Task Dependencies and Critical Path Visualization
+1. [x] Task Dependencies and Critical Path Visualization
 
 https://nboldapp.com/top-10-benefits-of-upgrading-to-planner-premium-for-microsoft-365/
 
-2. Custom Fields and Automated Rollup Calculations
+2. [x] Custom Fields and Automated Rollup Calculations
 
 https://nboldapp.com/introducing-microsoft-planner-premium-new-features-and-how-to-access-them/
 
@@ -70,11 +70,6 @@ https://answers.microsoft.com/en-us/msteams/forum/all/planner-premium-reduced-fu
 
 2. Progress Field Customization
 
-3. Recurring Tasks
-
-4. Copying and Moving Tasks
-
-5. Custom Fields Management
 
 ---
 

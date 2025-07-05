@@ -1,7 +1,8 @@
 ---
-date: 2025-05-30
 tags:
   - post
+date: 2025-05-30
+url: https://planner-ms.ghost.io/microsoft-planner-task-history/
 service: ghost
 author: otto
 ---

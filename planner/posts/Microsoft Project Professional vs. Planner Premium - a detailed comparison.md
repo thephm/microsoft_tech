@@ -6,7 +6,7 @@ date: 2025-03-29
 people: otto
 service: ghost
 ---
-# Microsoft Project Professional vs. Planner Premium: a detailed comparison
+# Microsoft Project Professional vs. Planner premium: a detailed comparison
 
 This post examines the key differences between Microsoft Project Professional and Microsoft Planner Premium to help you understand and make decisions on when to use either or both.
 
