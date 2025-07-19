@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "bf00c7f7a0e63db5",
+        "id": "6ec04ae0f98423b0",
         "type": "tabs",
         "children": [
           {
-            "id": "d24cdf6423562755",
+            "id": "c56d0436a2b37f19",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "planner/posts/Microsoft Planner's Custom Fields of Dreams.md",
+                "file": "planner/posts/Microsoft Planner - know your limits and work within them.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Microsoft Planner's Custom Fields of Dreams"
+              "title": "Microsoft Planner - know your limits and work within them"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "planner/posts/Microsoft Planner's Custom Fields of Dreams.md",
+                "file": "planner/posts/Microsoft Planner - know your limits and work within them.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Microsoft Planner's Custom Fields of Dreams"
+              "title": "Backlinks for Microsoft Planner - know your limits and work within them"
             }
           },
           {
@@ -168,21 +168,28 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d24cdf6423562755",
+  "active": "c56d0436a2b37f19",
   "lastOpenFiles": [
-    "planner/posts/media/Department of Plan in g.png",
-    "planner/posts/Microsoft Planner's Custom Fields of Dreams.md",
-    "planner/posts/media/MS Planner - Copy plan.png",
-    "planner/posts/media/MS Planner - Excel export example.png",
-    "planner/posts/media/MS Planner - Export to Excel.png",
-    "planner/posts/media/MS Planner - Rollup of number field.png",
-    "planner/posts/media/MS Planner - Edit custom field.png",
-    "planner/posts/media/MS Planner - Edit Custom Field menu.png",
-    "planner/posts/media/Fruit Roll-Ups.png",
-    "planner/posts/media/MS Planner - Grid view with some tasks having pink background.png",
-    "planner/posts/media/MS Planner - Screenshot of Conditional Coloring.png",
+    "planner/posts/media/MS Planner - Add a note - Conversation.png",
+    "planner/posts/Microsoft Planner - know your limits and work within them.md",
+    "planner/posts/media/Toronto Signs.png",
+    "planner/posts/ideas/Unlocking Insights with Planner Charts and Reports.md",
+    "planner/posts/ideas/Recurring Tasks - Set Up Once, Save Hours Later.md",
+    "planner/posts/ideas/MS Project for the web in custom environments.md",
+    "planner/posts/ideas/MS Planner Premium challenges 1.md",
+    "planner/posts/ideas/Microsoft Planner on the Go - Mobile App Best Practices.md",
     "planner/posts/ideas/Microsoft Planner hard to use features.md",
     "planner/posts/ideas/Mastering Microsoft Planner Views with Board Charts and Schedule.md",
+    "planner/posts/Use Assignments in Planner to see who's on what, when.md",
+    "planner/posts/media/MS Planner - Assignments - Group by Resource.png",
+    "planner/posts/media/MS Planner - Assignments - set value.png",
+    "planner/posts/media/MS Planner - Assignments - timeframe menu.png",
+    "planner/posts/media/MS Planner - Assignments navigation.png",
+    "planner/posts/media/MS Planner - Assignments - Your assignments.png",
+    "planner/posts/media/MS Planner - Assignments - Group by Task.png",
+    "Pasted image 20250712140351.png",
+    "planner/posts/Microsoft Planner's Custom Fields of Dreams.md",
+    "planner/posts/media/Department of Plan in g.png",
     "planner/Microsoft Planner.md",
     "planner/resources/What's new in Microsoft Planner - January 2025  Microsoft Community Hub.md",
     "planner/Tasks by Planner.md",
@@ -199,13 +206,6 @@
     "planner/resources/About plans that aren't in groups.md",
     "planner/posts/Task History in Planner.md",
     "planner/posts/Task Dependencies in Microsoft Planner - A Complete Guide.md",
-    "planner/posts/Sprints in Microsoft Planner, a false start.md",
-    "planner/posts/Seamless Integration - Microsoft Planner with Teams and Outlook and Power Automate.md",
-    "planner/posts/Project Desktop vs. Planner premium plans.md",
-    "planner/posts/Planner plans - to share or not to share - that is the question.md",
-    "planner/posts/Never Miss a Deadline - Mastering Planner Notifications.md",
-    "planner/posts/Microsoft Project Professional vs. Planner Premium - a detailed comparison.md",
-    "planner/posts/Labeling and Categorization Strategies That Actually Work.md",
     "planner/posts/ideas",
     "planner/media/pin a tab for Planner and create a shared space.mp4",
     "planner/posts/media",

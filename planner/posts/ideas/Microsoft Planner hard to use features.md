@@ -6,19 +6,19 @@ Here are some key areas to consider:
 
 1. Timeline (Gantt) View
 
-- [x] Task Dependencies
+2. [x] Task Dependencies
 
 	Walkthrough Suggestion: Develop a tutorial that explains each type of dependency with real-world examples, demonstrating how to link tasks and the impact on project timelines.
 
-3. Custom Fields and Conditional Coloring
+3. [x] Custom Fields and Conditional Coloring
 
 Challenge: Customizing tasks with additional fields and applying conditional formatting can be overwhelming for users without prior experience in customization.
 
-- [x] Task Dependencies (Finish-to-Start, Start-to-Start, etc.) - DONE
+3. [x] Task Dependencies (Finish-to-Start, Start-to-Start, etc.) - DONE
 
 https://nboldapp.com/beginners-guide-to-planner-premium-timelines-dependencies-and-more/
 
-2. People View for Workload Balancing
+4. [ ] People View for Workload Balancing
 
 The People view enables managers to assess team members' workloads. Many users are unsure how to access and interpret this view. An instructional post explaining how to use the People view to balance workloads and manage resources would be beneficial.
 
@@ -60,16 +60,15 @@ https://answers.microsoft.com/en-us/msteams/forum/all/planner-premium-issues/033
 
 Same URL
 
-7. Sorting and Filtering in Board View
+- [x] 7. Sorting and Filtering in Board View
 
 Same URL and ...
 
 https://answers.microsoft.com/en-us/msteams/forum/all/planner-premium-reduced-functionality-compared-to/5114a6dd-ce66-4a19-823b-ab9982d9b0b9
 
-1. Task Checklist and Notes Visibility
+- [x] 1. Task Checklist and Notes Visibility
 
 2. Progress Field Customization
-
 
 ---
 
