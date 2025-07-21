@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "farm crawl",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -168,7 +169,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "c56d0436a2b37f19",
+  "active": "15f3479d75c0d2cf",
   "lastOpenFiles": [
     "planner/posts/media/MS Planner - Add a note - Conversation.png",
     "planner/posts/Microsoft Planner - know your limits and work within them.md",
