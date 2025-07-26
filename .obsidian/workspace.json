@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "planner/posts/Microsoft Planner - know your limits and work within them.md",
+                "file": "planner/posts/I'm Board in Microsoft Planner!.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Microsoft Planner - know your limits and work within them"
+              "title": "I'm Board in Microsoft Planner!"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "farm crawl",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "planner/posts/Microsoft Planner - know your limits and work within them.md",
+                "file": "planner/posts/I'm Board in Microsoft Planner!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Microsoft Planner - know your limits and work within them"
+              "title": "Backlinks for I'm Board in Microsoft Planner!"
             }
           },
           {
@@ -169,28 +168,29 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "15f3479d75c0d2cf",
+  "active": "c56d0436a2b37f19",
   "lastOpenFiles": [
-    "planner/posts/media/MS Planner - Add a note - Conversation.png",
+    "planner/posts/media/Microsoft Planner - my idea.png",
+    "planner/posts/I'm Board in Microsoft Planner!.md",
+    "planner/posts/media/Microsoft Planner - Bucket Colour Picker.png",
+    "planner/posts/media/Microsoft Planner - Group by Bucket.png",
+    "planner/posts/media/Microsoft Planner - coloured buckets.png",
+    "planner/posts/media/Microsoft Planner Subscription.png",
+    "Pasted image 20250726130900.png",
+    "planner/posts/ideas/Microsoft Planner hard to use features.md",
+    "planner/posts/ideas/Mastering Microsoft Planner Views with Board Charts and Schedule.md",
     "planner/posts/Microsoft Planner - know your limits and work within them.md",
+    "planner/posts/media/MS Planner - Add a note - Conversation.png",
     "planner/posts/media/Toronto Signs.png",
     "planner/posts/ideas/Unlocking Insights with Planner Charts and Reports.md",
     "planner/posts/ideas/Recurring Tasks - Set Up Once, Save Hours Later.md",
     "planner/posts/ideas/MS Project for the web in custom environments.md",
     "planner/posts/ideas/MS Planner Premium challenges 1.md",
     "planner/posts/ideas/Microsoft Planner on the Go - Mobile App Best Practices.md",
-    "planner/posts/ideas/Microsoft Planner hard to use features.md",
-    "planner/posts/ideas/Mastering Microsoft Planner Views with Board Charts and Schedule.md",
     "planner/posts/Use Assignments in Planner to see who's on what, when.md",
     "planner/posts/media/MS Planner - Assignments - Group by Resource.png",
     "planner/posts/media/MS Planner - Assignments - set value.png",
-    "planner/posts/media/MS Planner - Assignments - timeframe menu.png",
-    "planner/posts/media/MS Planner - Assignments navigation.png",
-    "planner/posts/media/MS Planner - Assignments - Your assignments.png",
-    "planner/posts/media/MS Planner - Assignments - Group by Task.png",
-    "Pasted image 20250712140351.png",
     "planner/posts/Microsoft Planner's Custom Fields of Dreams.md",
-    "planner/posts/media/Department of Plan in g.png",
     "planner/Microsoft Planner.md",
     "planner/resources/What's new in Microsoft Planner - January 2025  Microsoft Community Hub.md",
     "planner/Tasks by Planner.md",
@@ -206,7 +206,6 @@
     "planner/resources/Hidden Gems of Microsoft 365 Planner.md",
     "planner/resources/About plans that aren't in groups.md",
     "planner/posts/Task History in Planner.md",
-    "planner/posts/Task Dependencies in Microsoft Planner - A Complete Guide.md",
     "planner/posts/ideas",
     "planner/media/pin a tab for Planner and create a shared space.mp4",
     "planner/posts/media",
